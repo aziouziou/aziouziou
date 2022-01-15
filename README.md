@@ -1,5 +1,7 @@
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=abziouzi)](https://github.com/abdelhamidziouziou/)
 
+![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelhamidziouziou&show_icons=true&theme=radical)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	<a href="https://fb.com/abdelhamid.ziouziou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdelhamid.ziouziou" height="30" width="40" /></a>
