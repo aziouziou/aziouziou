@@ -1,16 +1,14 @@
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=abziouzi)](https://github.com/abdelhamidziouziou/)
 
-<p align="left"> <a href="https://twitter.com/abdelhamidziou1" target="blank"><img src="https://img.shields.io/twitter/follow/abdelhamidziou1?logo=twitter&style=for-the-badge" alt="abdelhamidziou1" /></a> </p>
-
-
 <h3 align="left">Connect with me:</h3>
-📫 Email: **abdelhamidziouziou@gmail.com**
+- 📫 Email: **abdelhamidziouziou@gmail.com**
 <p align="left">
-<a href="https://linkedin.com/in/abdelhamidziouziou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelhamidziouziou" height="30" width="40" /></a>
-<a href="https://fb.com/abdelhamid.ziouziou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdelhamid.ziouziou" height="30" width="40" /></a>
-<a href="https://instagram.com/a.ziouziou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.ziouziou" height="30" width="40" /></a>
-<a href="https://twitter.com/abdelhamidziou1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdelhamidziou1" height="30" width="40" /></a>
-<a href="https://discord.gg/Abdelhamid Z#3961" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Abdelhamid Z#3961" height="30" width="40" /></a>
+	<a href="https://fb.com/abdelhamid.ziouziou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdelhamid.ziouziou" height="30" width="40" /></a>
+	<a href="https://instagram.com/a.ziouziou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.ziouziou" height="30" width="40" /></a>
+	<a href="https://twitter.com/abdelhamidziou1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdelhamidziou1" height="30" width="40" /></a>
+	<a href="https://linkedin.com/in/abdelhamidziouziou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelhamidziouziou" height="30" width="40" /></a>
+	<a href="https://discord.gg/Abdelhamid Z#3961" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Abdelhamid Z#3961" height="30" width="40" /></a>
+	<p align="left"> <a href="https://twitter.com/abdelhamidziou1" target="blank"><img src="https://img.shields.io/twitter/follow/abdelhamidziou1?logo=twitter&style=for-the-badge" alt="abdelhamidziou1" /></a> </p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
