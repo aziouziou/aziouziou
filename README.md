@@ -7,8 +7,8 @@
 	<a href="https://twitter.com/abdelhamidziou1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdelhamidziou1" height="30" width="40" /></a>
 	<a href="https://linkedin.com/in/abdelhamidziouziou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelhamidziouziou" height="30" width="40" /></a>
 	<a href="https://discord.gg/Abdelhamid Z#3961" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Abdelhamid Z#3961" height="30" width="40" /></a>
-	📫 Email: **abdelhamidziouziou@gmail.com**
-	<p align="left"> <a href="https://twitter.com/abdelhamidziou1" target="blank"><img src="https://img.shields.io/twitter/follow/abdelhamidziou1?logo=twitter&style=for-the-badge" alt="abdelhamidziou1" /></a> </p>
+	<a href="https://discord.gg/Abdelhamid Z#3961" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abdelhamidziouziou@gmail.com" height="30" width="40" /></a>
+	<a href="mailto:abdelhamidziouziou@gmail.com" target="mailto:abdelhamidziouziou@gmail.com"><img src="https://img.shields.io/twitter/follow/abdelhamidziou1?logo=twitter&style=for-the-badge" alt="abdelhamidziou1" /></a> </p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
