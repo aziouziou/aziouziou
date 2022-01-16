@@ -1,6 +1,6 @@
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=abziouzi)](https://github.com/abdelhamidziouziou/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelhamidziouziou&layout=compact&theme=omni)](https://github.com/abdelhamidziouziou/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelhamidziouziou&layout=compact&theme=monokai)](https://github.com/abdelhamidziouziou/)
 
 ## Contact me
 
@@ -33,4 +33,7 @@
 	<img src="https://img.icons8.com/color/64/000000/adobe-illustrator--v1.png"/>
 	<img src="https://img.icons8.com/color/64/000000/adobe-indesign--v1.png"/>
 	<img src="https://img.icons8.com/color/64/000000/adobe-photoshop--v1.png"/>
+</p>
+<p>
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelhamidziouziou&theme=monokai" alt="abdelhamidziouziou" />
 </p>
