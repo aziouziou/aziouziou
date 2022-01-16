@@ -17,7 +17,7 @@
 
 <p align="left">
 	<img src="https://img.icons8.com/color/64/000000/windows-10.png"/>
-	<img src="https://img.icons8.com/ios-filled/64/000000/mac-os.png"/>
+	<img src="https://img.icons8.com/color/64/000000/mac-os-logo.png"/>
 	<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/64/000000/external-linux-a-family-of-open-source-unix-like-operating-systems-based-on-the-linux-kernel-logo-shadow-tal-revivo.png"/>
 	<img src="https://img.icons8.com/color/64/000000/git.png"/>
 	<img src="https://img.icons8.com/color/64/000000/visual-studio-code-2019.png"/>
