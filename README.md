@@ -47,7 +47,7 @@
 	</a>
 </p>
 <p align="left">
-	<a href="paypal.me/abziouziou">
+	<a href="https://paypal.me/abziouziou">
 		<img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="paypal">
 	</a>
 </p>
