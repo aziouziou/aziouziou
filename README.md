@@ -29,7 +29,7 @@
 	<img src="https://img.icons8.com/color/64/000000/adobe-photoshop--v1.png"/>
 </p>
 
-## Contact me
+## CONTACT
 
 <p align="left">
 	<a href="https://linkedin.com/in/abdelhamidziouziou" target="blank"><img src="https://img.icons8.com/fluency/64/000000/linkedin.png"/></a>
