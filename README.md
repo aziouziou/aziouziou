@@ -1,4 +1,4 @@
-[![abziouzi's 42 stats](https://badge.mediaplus.ma/greenbinary/abziouzi)](https://github.com/oakoudad/badge42)
+[![abziouzi's 42 stats](https://badge.mediaplus.ma/greenbinary/abziouzi)](https://github.com/abdelhamidziouziou/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelhamidziouziou&layout=compact&theme=monokai)](https://github.com/abdelhamidziouziou/)
 
