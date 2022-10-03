@@ -39,6 +39,15 @@
 	<a href="https://instagram.com/a.ziouziou" target="blank"><img src="https://img.icons8.com/fluency/64/000000/instagram-new.png"/></a>
 </p>
 
-<a href="https://www.buymeacoffee.com/roniemartinez" target="_blank">
-	<img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="62" width="325">
-</a>
+## DONATE
+
+<p align="left">
+	<a href="https://www.buymeacoffee.com/roniemartinez" target="_blank">
+		<img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="62" width="325">
+	</a>
+</p>
+<p align="left">
+	<a href="paypal.me/abziouziou">
+		<img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="paypal">
+	</a>
+</p>
