@@ -33,10 +33,10 @@
 
 <p align="left">
 	<a href="https://linkedin.com/in/abdelhamidziouziou" target="blank"><img src="https://img.icons8.com/fluency/64/000000/linkedin.png"/></a>
-	<a href="https://twitter.com/abdelhamidziou1" target="blank"><img src="https://img.icons8.com/color/64/000000/twitter--v1.png"/></a>
-	<a href="https://discord.gg/Abdelhamid Z#3961" target="blank"><img src="https://img.icons8.com/fluency/64/000000/discord-logo.png"/></a>
-	<a href="https://fb.com/abdelhamid.ziouziou" target="blank"><img src="https://img.icons8.com/fluency/64/000000/facebook-new.png"/></a>
-	<a href="https://instagram.com/a.ziouziou" target="blank"><img src="https://img.icons8.com/fluency/64/000000/instagram-new.png"/></a>
+	<a href="https://twitter.com/a_ziouziou" target="blank"><img src="https://img.icons8.com/color/64/000000/twitter--v1.png"/></a>
+	<a href="https://discord.gg/A.Z#3961" target="blank"><img src="https://img.icons8.com/fluency/64/000000/discord-logo.png"/></a>
+	<a href="https://fb.com/moekis.me" target="blank"><img src="https://img.icons8.com/fluency/64/000000/facebook-new.png"/></a>
+	<a href="https://instagram.com/moekis.me" target="blank"><img src="https://img.icons8.com/fluency/64/000000/instagram-new.png"/></a>
 </p>
 
 ## DONATE
