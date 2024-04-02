@@ -1,4 +1,4 @@
-[![abziouzi's 42 stats](https://badge.mediaplus.ma/greenbinary/abziouzi)](https://github.com/abdelhamidziouziou/)
+[![abziouzi's 42 stats](https://badge.mediaplus.ma/greenbinary/abziouzi)](https://github.com/a.ziouziou/)
 
 ## SKILLS
 
