@@ -1,4 +1,4 @@
-[![abziouzi's 42 stats](https://badge.mediaplus.ma/greenbinary/abziouzi)](https://github.com/a.ziouziou/)
+[![abziouzi's 42 stats](https://badge.mediaplus.ma/greenbinary/abziouzi)](https://github.com/aziouziou/)
 
 ## SKILLS
 
@@ -33,10 +33,10 @@
 
 <p align="left">
 	<a href="https://linkedin.com/in/abdelhamidziouziou" target="blank"><img src="https://img.icons8.com/fluency/64/000000/linkedin.png"/></a>
-	<a href="https://twitter.com/a_ziouziou" target="blank"><img src="https://img.icons8.com/color/64/000000/twitter--v1.png"/></a>
-	<a href="https://discord.gg/A.Z#3961" target="blank"><img src="https://img.icons8.com/fluency/64/000000/discord-logo.png"/></a>
-	<a href="https://fb.com/moekis.me" target="blank"><img src="https://img.icons8.com/fluency/64/000000/facebook-new.png"/></a>
-	<a href="https://instagram.com/moekis.me" target="blank"><img src="https://img.icons8.com/fluency/64/000000/instagram-new.png"/></a>
+	<a href="https://twitter.com/dev_aziouziou" target="blank"><img src="https://img.icons8.com/color/64/000000/twitter--v1.png"/></a>
+	<a href="https://discord.gg/dev.aziouziou" target="blank"><img src="https://img.icons8.com/fluency/64/000000/discord-logo.png"/></a>
+	<a href="https://fb.com/Abdelhamid.Ziouziou" target="blank"><img src="https://img.icons8.com/fluency/64/000000/facebook-new.png"/></a>
+	<a href="https://instagram.com/aziouziou" target="blank"><img src="https://img.icons8.com/fluency/64/000000/instagram-new.png"/></a>
 </p>
 
 ## DONATE
